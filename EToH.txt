@@ -1,0 +1,89 @@
+import 'package:get/get.dart';
+
+class  EToH extends Translations{
+
+	Map<String, Map<String, String>> get keys => {
+	// ENGLISH LANGUAGE
+		'en_US' :{
+			
+
+			'N':'news',
+			'TN':'Top news',
+			'TO':'Top offers',
+			'BM':'now a day real state is the most safe place to invest',
+
+
+			'SELL':'i am looking to sell a property',
+			'SL':'sell location',
+			'FA':'full address',
+			'MS':'make sure to be on location for accurate map location',
+			'NOTE':'note if map is not showing the accurate location then please restart the app',
+			'AL':'add location',
+			'UI':'Upload image',
+			'SI':'size in',
+
+
+			'T':'trends',
+			'I':'investments',
+			'TI':'trending',
+			'F':'favorite',
+
+
+			'AU':'about us',
+			'SUM':'Welcome to Guru Real Estate, where we turn dreams into addresses and aspirations into homes. We understand that the journey to finding the perfect property is more than just a transaction; it's about discovering a space that resonates with your lifestyle and aspirations. At Guru Real Estate, we are dedicated to simplifying the real estate experience and empowering you to make informed decisions about your future home or investment.
+
+Our Vision
+
+Our vision at Guru Real Estate is to redefine the real estate landscape by providing innovative and user-friendly solutions. We aim to be the go-to platform for individuals and families seeking their ideal home, as well as for savvy investors looking for lucrative opportunities. We believe in leveraging technology to streamline the property search process and make it a seamless, enjoyable experience for everyone involved.
+
+Who We Are
+
+Guru Real Estate is more than just a real estate platform; we are a team of passionate individuals dedicated to transforming the way',
+
+
+
+		},
+	
+	// HINDI LANGUAGE
+		'hi_IN' :{
+
+			'N':'समाचार',
+			'TN':'शीर्ष समाचार',
+			'TO':'टॉप ऑफर',
+			'BM':'अब एक दिन रियल स्टेट निवेश करने के लिए सबसे सुरक्षित जगह है',
+
+
+			'SELL':'मैं एक संपत्ति बेचना चाहता हूँ',
+			'SL':'बेचने का स्थान',
+			'FA':'पूरा पता',
+			'MS':'सटीक मानचित्र स्थान के लिए स्थान पर होना सुनिश्चित करें',
+			'NOTE':'नोट: यदि मानचित्र सटीक स्थान नहीं दिखा रहा है, तो कृपया ऐप को पुनरारंभ करें।',
+			'AL':'स्थान जोड़ें',
+			'UI':'छवि अपलोड करें',
+			'SI':'आकार में',
+
+
+			'T':'रुझान',
+			'I':'निवेश',
+			'TI':'ट्रेंडिंग',
+			'F':'प्रिय',
+
+
+			'AU':'हमारे बारे में',
+			'SUM':'गुरु रियल एस्टेट में आपका स्वागत है, जहां हम सपनों को पते में और आकांक्षाओं को घरों में बदलते हैं। हम समझते हैं कि सही संपत्ति खोजने की यात्रा सिर्फ एक लेनदेन से अधिक है; यह एक ऐसी जगह की खोज के बारे में है जो आपकी जीवन शैली और आकांक्षाओं से मेल खाती है। गुरु रियल एस्टेट में, हम रियल एस्टेट अनुभव को सरल बनाने और आपको अपने भविष्य के घर या निवेश के बारे में सूचित निर्णय लेने के लिए सशक्त बनाने के लिए समर्पित हैं।
+
+हमारी दृष्टि
+
+गुरु रियल एस्टेट में हमारा दृष्टिकोण अभिनव और उपयोगकर्ता के अनुकूल समाधान प्रदान करके रियल एस्टेट परिदृश्य को फिर से परिभाषित करना है। हमारा उद्देश्य अपने आदर्श घर की तलाश करने वाले व्यक्तियों और परिवारों के साथ-साथ आकर्षक अवसरों की तलाश करने वाले समझदार निवेशकों के लिए मंच बनना है। हम संपत्ति खोज प्रक्रिया को सुव्यवस्थित करने और इसमें शामिल सभी के लिए इसे एक सहज, सुखद अनुभव बनाने के लिए प्रौद्योगिकी का लाभ उठाने में विश्वास करते हैं।
+
+हम कौन हैं
+
+गुरु रियल एस्टेट सिर्फ एक रियल एस्टेट प्लेटफॉर्म से अधिक है; हम भावुक व्यक्तियों की एक टीम हैं जो समर्पित हैं ',
+
+
+
+		},
+		
+	};
+
+}
